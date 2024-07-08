@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Aryan</h1>
 <h3 align="center">An aspiring Full-stack developer with a passion to create </h3>
 <p align="left">
-📚 Pursuing graduate degree in Computer Engineering.  
+📚 Pursuing graduate degree in Computer Engineering.  <br>
 🌱 I’m currently learning frontend technologies.
 </p>
 <p align="left">
