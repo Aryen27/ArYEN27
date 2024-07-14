@@ -4,8 +4,6 @@
 📚 Pursuing graduate degree in Computer Engineering.  <br>
 🌱 I’m currently learning frontend technologies.
 </p>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
