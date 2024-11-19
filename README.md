@@ -2,7 +2,8 @@
 <h3 align="center">An aspiring Full-stack developer with a passion to create </h3>
 <p align="left">
 📚 Pursuing graduate degree in Computer Engineering.  <br>
-🌱 I’m currently learning frontend technologies.
+🌱 I’m currently learning backend technologies in javascript. <br>
+🔍Passionate about Machine Learning and Blockchain
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
