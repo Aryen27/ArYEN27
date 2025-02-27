@@ -1,7 +1,6 @@
 <h1 align="center">I'm Aryan Rajeev</h1>
 <h3 align="center">An aspiring Full-stack developer with a passion to create </h3>
 <p align="left">
-📚 Pursuing graduate degree in Computer Engineering.  <br>
 🌱 I’m currently learning backend technologies in javascript. <br>
 🔍Passionate about Machine Learning and Blockchain
 </p>
@@ -25,7 +24,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="50" height="50" />
 </p>
-
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryen27&show_icons=true&theme=transparent)
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aryen27&show_icons=true&theme=transparent&text_color=257af1&icon_color=257af1"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryen27&layout=compact&langs_count=5&hide=css"/>
+</a>
 
