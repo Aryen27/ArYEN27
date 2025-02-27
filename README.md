@@ -26,9 +26,7 @@
 </p>
 <br>
 <p>  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=Aryen27&show_icons=true&theme=transparent&text_color=257af1&icon_color=257af1" hspace="20"/>
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryen27&layout=compact&langs_count=5&hide=css"/>
-</a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=Aryen27&show_icons=true&theme=transparent&text_color=257af1&icon_color=257af1" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryen27&layout=compact&langs_count=5&hide=css" hspace="20"/>
 </p>
 
