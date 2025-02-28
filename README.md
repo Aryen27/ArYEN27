@@ -26,7 +26,7 @@
 </p>
 <br>
 <p>  
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=Aryen27&show_icons=true&theme=transparent&text_color=257af1&icon_color=257af1"hspace="200" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=Aryen27&include_all_commits=true&show_icons=true&theme=transparent&text_color=257af1&icon_color=257af1"hspace="200" />
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryen27&layout=compact&langs_count=5&hide=css" hspace="240"/>
 </p>
 
