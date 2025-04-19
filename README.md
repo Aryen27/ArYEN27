@@ -27,6 +27,6 @@
 <br>
 <p>  
   <img height=200  src="https://github-stats-vercel-git-main-aryan-rajeevs-projects.vercel.app/api?username=Aryen27&show_icons=true&theme=transparent&text_color=257af1&icon_color=257af1"hspace="200" />
-  <img height=200  src="https://github-stats-vercel-git-main-aryan-rajeevs-projects.vercel.app/api/top-langs/?username=Aryen27&layout=compact" hspace="240"/>
+  <img height=200  src="https://github-stats-vercel-git-main-aryan-rajeevs-projects.vercel.app/api/top-langs/?username=Aryen27&layout=compact&hide=css,html" hspace="240"/>
 </p>
 
